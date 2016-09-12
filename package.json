@@ -3,7 +3,7 @@
   "name": "website-lab",
   "homepage": "https://kimhjh.github.io/website-lab/",
   "twitter": "",
-  "repository": "",
+  "repository": "https://github.com/kimhjh/website-lab/",
   "scripts": {
     "lint:js": "eslint --ignore-path .gitignore --fix .",
     "lint:css": "stylelint \"web_modules/**/*.css\"",

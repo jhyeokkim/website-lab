@@ -3,7 +3,7 @@ title: Phenomic default boilerplate
 layout: Homepage
 ---
 
-안녕? there.
+안녕하세요. 작동.
 
 Before having fun with Phenomic, be sure to read (or at least pretend to)
 the documentation :
